@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .tier-list {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .tier {
+    text-align: center;
+  }
+  
+  .project {
+    margin-top: 20px;
+  }
+  
+  .project img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .project p {
+    margin-top: 10px;
+  }
+  
