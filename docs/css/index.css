@@ -1,33 +1,67 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
-  
-  h1 {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.tierS {
+    background-color: #FF7F7F;
     text-align: center;
-  }
-  
-  .tier-list {
-    display: flex;
+    padding: 5rem 0;
+}
+
+.tierA {
+    background-color: #FFDF7F;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.imagenCarta {
+    max-width: 100rem;
+    max-height: 100rem;
+    min-width: 100rem;
+    min-height: 100rem;
     justify-content: center;
-    gap: 40px;
-  }
-  
-  .tier {
-    text-align: center;
-  }
-  
-  .project {
-    margin-top: 20px;
-  }
-  
-  .project img {
-    width: 200px;
-    height: auto;
-  }
-  
-  .project p {
-    margin-top: 10px;
-  }
-  
+    align-items: center;
+}
+.myTitle{
+    color: aliceblue;
+    text-align: justify;
+}
+
+.myText{
+    color: aliceblue;
+    text-align: justify;
+}
+
+.mainTitle{
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    padding-bottom: 3rem;
+}
+
+.sep{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.sepLat{
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.fila{
+    background-color: rgb(54, 54, 54);
+}
+
+.myLink{
+    outline: none;
+    text-decoration: none;
+    color: #e0acff;
+}
+.myLink:hover{
+    outline: none;
+    text-decoration: none;
+    color: #ffffff;
+}

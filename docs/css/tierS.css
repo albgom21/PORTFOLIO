@@ -1,0 +1,44 @@
+.btnNav{
+    background-color: brown;
+    color: aliceblue;
+}
+
+.myFont{
+    margin: 3rem;
+    margin-left: 0rem;
+    margin-right: 1.5rem;
+    color: aliceblue;
+}
+
+.myTitle{
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin: 3rem;
+    margin-left: 0rem;
+    margin-right: 1.5rem;
+    color: aliceblue;
+}
+
+.bgTierS{
+    background-color: brown;
+}
+.bgTierS2{
+    background-color: rgb(223, 109, 109);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bgTierS3{
+    background-color: rgb(109, 22, 22);
+}
+.myFontText{
+    color: aliceblue;
+    padding: 1rem;
+    padding-bottom: 0rem;
+}
+.bgTierS4{
+    background-color: rgb(223, 109, 109);
+}
+.bgTierS5{
+    background-color: rgb(247, 170, 170);
+}
