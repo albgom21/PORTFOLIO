@@ -1,43 +1,44 @@
+
 .bgTierS{
-    background-color: brown;
+    background-color: #b87400;
 }
-.bgTierS2{
-    background-color: rgb(223, 109, 109);
+.bgTierA2{
+    background-color: #fed353;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
 .bgTierS3{
-    background-color: rgb(109, 22, 22);
+    background-color: #7e4400;
 }
 
 .bgTierS4{
-    background-color: rgb(223, 109, 109);
+    background-color: #fed353;
 }
-
 
 .myFont{
     margin: 3rem;
     margin-left: 0rem;
     margin-right: 1.5rem;
-    color: aliceblue;
+    color: 1E2328;
 }
 
-.myTitle{
+.myTitleA{
     font-weight: bold;
     font-size: 1.25rem;
     margin: 3rem;
     margin-left: 0rem;
     margin-right: 1.5rem;
-    color: aliceblue;
+    color: 1E2328;
 }
 
 .myFontText{
-    color: aliceblue;
+    color: 1E2328;
     padding: 1rem;
     padding-bottom: 0rem;
 }
 
 .btn:hover {
-    background-color: #ff5050 !important;
+    background-color: #ffb73b !important;
+    color: #7e4400 !important;
 }

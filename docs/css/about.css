@@ -1,20 +1,25 @@
 .bgTierS{
-    background-color: brown;
+    background-color: rgb(42, 165, 155);
 }
 .bgTierS2{
-    background-color: rgb(223, 109, 109);
+    background-color:rgb(84, 150, 139);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
 .bgTierS3{
-    background-color: rgb(109, 22, 22);
+    background-color: rgb(22, 103, 109);
 }
 
 .bgTierS4{
-    background-color: rgb(223, 109, 109);
+    background-color: rgb(84, 150, 139);
 }
 
+.bgTierS5{
+    background-color: rgb(22, 103, 109);
+    justify-content: center; /* Alineación horizontal */
+    align-items: center; /* Alineación vertical */
+}
 
 .myFont{
     margin: 3rem;
@@ -39,5 +44,6 @@
 }
 
 .btn:hover {
-    background-color: #ff5050 !important;
+    border-color: #248d82 !important;
+    background-color: #22b19e !important;
 }

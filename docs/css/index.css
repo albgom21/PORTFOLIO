@@ -2,25 +2,42 @@ body {
     font-family: Arial, sans-serif;
     max-width: 100%;
     overflow-x: hidden;
+    /* background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff; */
 }
 
 .tierS {
     background-color: #FF7F7F;
     text-align: center;
-    padding: 5rem 0;
+    display: flex;
+    justify-content: center; /* Alineación horizontal */
+    align-items: center; /* Alineación vertical */
 }
 
 .tierA {
     background-color: #FFDF7F;
     text-align: center;
-    padding: 5rem 0;
+    display: flex;
+    justify-content: center; /* Alineación horizontal */
+    align-items: center; /* Alineación vertical */
+}
+
+.tierB {
+    background-color: #BFFF7F;
+    text-align: center;
+    display: flex;
+    justify-content: center; /* Alineación horizontal */
+    align-items: center; /* Alineación vertical */
 }
 
 .imagenCarta {
-    max-width: 100rem;
+    /* max-width: 100rem;
     max-height: 100rem;
     min-width: 100rem;
-    min-height: 100rem;
+    min-height: 100rem; */
     justify-content: center;
     align-items: center;
 }
@@ -36,9 +53,10 @@ body {
 
 .mainTitle{
     justify-content: center;
-    color: rgb(0, 0, 0);
+    color: rgb(4, 44, 0);
     font-size: 2rem;
     padding-bottom: 3rem;
+    font-weight: bold;
 }
 
 .sep{
@@ -58,23 +76,29 @@ body {
 .myLink{
     outline: none;
     text-decoration: none;
-    color: #e0acff;
+    color: #aaf9ff;
 }
 
 .myLink:hover{
     outline: none;
     text-decoration: none;
-    color: #ffffff;
+    color: #00ffd5;
 }
 
 .myLinkFoot{
     outline: none;
     text-decoration: none;
-    color: #800000;
+    color: #000000;
 }
 
-.myLink:hover{
+.myLinkFoot:hover{
     outline: none;
     text-decoration: none;
-    color: #291616;
+    color: #0066ff;
+}
+
+.myButtonIndex:hover {
+    border-color: #00e97c !important;
+    background-color: #009c68 !important;
+    color: rgb(218, 255, 229) !important;
 }
