@@ -21,6 +21,7 @@
     margin-left: 0rem;
     margin-right: 1.5rem;
     color: aliceblue;
+    text-align: justify;
 }
 
 .myTitle{
@@ -36,6 +37,7 @@
     color: aliceblue;
     padding: 1rem;
     padding-bottom: 0rem;
+    text-align: justify;
 }
 
 .btn:hover {
