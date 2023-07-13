@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.white{
+    color: aliceblue;
+}
+
+.imagenCarta {
+    width: 10rem;
+    height: 10rem;
+    justify-content: left;
+    align-items: center;
+}
+.myTitle{
+    color: aliceblue;
+    text-align: justify;
+}
+
+.myText{
+    color: aliceblue;
+    text-align: center;
+}
+
+.mainTitle{
+    justify-content: center;
+    color: rgb(0, 43, 44);
+    font-size: 2rem;
+    padding-bottom: 3rem;
+    font-weight: bold;
+}
+
+.sep{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.sepLat{
+    margin-right: 8vw;
+    margin-left: 8vw;
+}
+
+.fila{
+    background-color: rgb(54, 54, 54);
+}
+
+.myLink{
+    outline: none;
+    text-decoration: none;
+    color: #ffe48a;
+}
+
+.myLink2{
+    outline: none;
+    text-decoration: none;
+}
+
+.myLink:hover{
+    outline: none;
+    text-decoration: none;
+    color: #ffae00;
+}
+
+.myLinkFoot{
+    outline: none;
+    text-decoration: none;
+    color: #000000;
+}
+
+.myLinkFoot:hover{
+    outline: none;
+    text-decoration: none;
+    color: #0066ff;
+}
+
+.myButtonIndex:hover {
+    border-color: #89ffff !important;
+    background-color: #00acac !important;
+    color: rgb(218, 249, 255) !important;
+}

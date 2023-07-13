@@ -76,13 +76,18 @@ body {
 .myLink{
     outline: none;
     text-decoration: none;
-    color: #aaf9ff;
+    color: #ffe48a;
+}
+
+.myLink2{
+    outline: none;
+    text-decoration: none;
 }
 
 .myLink:hover{
     outline: none;
     text-decoration: none;
-    color: #00ffd5;
+    color: #ffae00;
 }
 
 .myLinkFoot{
