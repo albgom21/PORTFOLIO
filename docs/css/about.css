@@ -31,8 +31,9 @@
 .myTitle{
     font-weight: bold;
     font-size: 1.25rem;
-    margin: 3rem;
     margin-left: 0rem;
+    margin-top: 4rem;
+    margin-bottom: 0rem;
     margin-right: 1.5rem;
     color: aliceblue;
 }
@@ -42,8 +43,15 @@
     padding: 1rem;
     padding-bottom: 0rem;
 }
+.myEnphasis{
+    color: rgb(179, 255, 242);
+}
 
 .btn:hover {
     border-color: #248d82 !important;
     background-color: #22b19e !important;
+}
+
+.myLogo{
+    margin: 1rem;
 }
