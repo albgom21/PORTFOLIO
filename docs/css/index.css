@@ -107,3 +107,9 @@ body {
     background-color: #009c68 !important;
     color: rgb(218, 255, 229) !important;
 }
+
+.myButtonIndex2:hover {
+    border-color: #ca9533 !important;
+    background-color: #61340a !important;
+    color: rgb(255, 253, 240) !important;
+}
